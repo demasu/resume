@@ -1,0 +1,237 @@
+{
+  "basics": {
+    "label": "Software Developer",
+    "email": "kc9guu@gmail.com",
+    "phone": "1-281-961-1489",
+    "website": "https://astudyinfutility.com",
+    "other": [],
+    "name": "Joshua Brandt",
+    "summary": "Well rounded software developer with a background in software quality assurance, technical support, web hosting, and system administration.",
+    "picture": "",
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "demasu",
+        "url": "https://github.com/demasu"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "cPanel",
+      "website": "https://cpanel.net",
+      "position": "Perl Developer I",
+      "startDate": "2017-06",
+      "summary": "Maintain the internal business and billing software to support cPanel and its customers.",
+      "highlights": [
+        "Integrated LiteSpeed into the web store.",
+        "Maintained and improved several systems in order to support our customers and employees."
+      ]
+    },
+    {
+      "company": "cPanel",
+      "website": "https://cpanel.net",
+      "position": "Quality Assurance Analyst",
+      "startDate": "2012-11",
+      "endDate": "2017-06",
+      "summary": "Ensured the quality of cPanel & WHM software was up to par with the expectations of both managers and product owners, as well as with the customer base.",
+      "highlights": [
+        "Tested and approved many of the most used features in cPanel & WHM currently.",
+        "Helped develop and improve several automated functional tests utilizing Selenium.",
+        "Received various testing certifications."
+      ]
+    },
+    {
+      "company": "cPanel",
+      "website": "https://cpanel.net",
+      "position": "Technical Support Analyst",
+      "startDate": "2012-02",
+      "endDate": "2012-11",
+      "summary": "Provided top tier technical support to all of cPanel's customers.",
+      "highlights": [
+        "Overall feedback score of over 9.5 out of 10.",
+        "Assisted with helping resolve issues for several high-profile customers."
+      ]
+    },
+    {
+      "company": "High Standards Technology",
+      "website": "https://weredown.com",
+      "position": "Desktop Administrator",
+      "startDate": "2011-10",
+      "endDate": "2011-12",
+      "summary": "Provided in-house technical support, including general troubleshooting and customized solutions, for several clients in and around the Houston area.",
+      "highlights": [
+        "Worked hand-in-hand with several high-profile clients to ensure they were running smoothly.",
+        "Often requested by name to help out several client locations as they had deemed my personality and customer service abilities to be a perfect fit for them."
+      ]
+    },
+    {
+      "company": "HostGator",
+      "website": "https://hostgator.com",
+      "position": "Security Administrator",
+      "startDate": "2011-04",
+      "endDate": "2011-08",
+      "summary": "Monitored the network for signs of compromise, and cleaned and prevented any compromises as well as combated spam.",
+      "highlights": [
+        "Tracked down and stopped many spam networks running on user accounts.",
+        "Stopped and cleaned up many compromised customer accounts to reduce phishing and increase overall security of our servers."
+      ]
+    },
+    {
+      "company": "HostGator",
+      "website": "https://hostgator.com",
+      "position": "Technical Support Representative",
+      "startDate": "2010-05",
+      "endDate": "2011-10",
+      "summary": "Provided technical support for customers through live chat and telephone, as well as assisted anyone with sales questions.",
+      "highlights": [
+        "Provided rapid and thorough technical support to customers.",
+        "Helped to educate customers in common issues and remedies so they would not have to waste money waiting on technical support to remedy common issues."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "San Jacinto Community College",
+      "courses": [
+        "Game Design and Development",
+        "Python",
+        "Visual Basic",
+        "C++",
+        "Web Design",
+        "Linux basics",
+        "Emergency Medical Technology"
+      ],
+      "startDate": "2007-01",
+      "endDate": "2010-06"
+    }
+  ],
+  "skills": [
+    {
+      "name": "General Programming",
+      "level": "Basic to Intermediate (see \"Languages\" for programming language details)",
+      "keywords": [
+        "perl",
+        "C++",
+        "Python",
+        "PHP",
+        "MySQL"
+      ]
+    },
+    {
+      "name": "Linux Systems Administration",
+      "level": "Intermediate-Advanced",
+      "keywords": [
+        "Redhat",
+        "CentOS",
+        "Linux",
+        "*NIX",
+        "Debian",
+        "Ubuntu",
+        "MySQL"
+      ]
+    },
+    {
+      "name": "LAMP server management",
+      "level": "Intermediate-Advanced",
+      "keywords": [
+        "LAMP",
+        "MySQL",
+        "Linux",
+        "*NIX",
+        "Apache",
+        "PHP"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": [
+        "git",
+        "version control"
+      ]
+    },
+    {
+      "name": "Shell Scripting",
+      "level": "Intermediate-Advanced",
+      "keywords": [
+        "bash",
+        "python",
+        "perl",
+        "MySQL"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "flavor": "award",
+      "url": "https://www.astqb.org/sections/list-of-certified-testers.php",
+      "title": "ISTQB CTFL, CTAL-TA",
+      "date": "2015-06",
+      "awarder": "ISTQB",
+      "summary": "International Software Testing Qualifications Board certifications Certified Tester Foundation Level and Certified Tester Advanced Level, Test Analyst"
+    },
+    {
+      "flavor": "certification",
+      "title": "Advanced Cardiac Life Support",
+      "date": "2008-06",
+      "awarder": "American Heart Association",
+      "summary": "Certifies that the holder is trained on advanced life-support, life-saving, intervention, and team dynamics and communication techniques"
+    },
+    {
+      "flavor": "certification",
+      "title": "International Trauma Life Support",
+      "date": "2008-06",
+      "awarder": "International Trauma Life Support",
+      "summary": "Certifies that the holder is trained on managing out-of-hospital trauma situations to an international standard of care."
+    },
+    {
+      "flavor": "certification",
+      "title": "Pediatric Advanced Life Support",
+      "date": "2008-06",
+      "awarder": "American Heart Association",
+      "summary": "Certifies that the holder is trained on advanced life-support techniques for pediatric patients."
+    },
+    {
+      "flavor": "certification",
+      "title": "EMT-Basic",
+      "date": "2008-03",
+      "awarder": "National Registry of Emergency Medical Technicians",
+      "summary": "Certification for an EMT Basic level to enable a person to work as an EMT."
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "level": "native"
+    },
+    {
+      "language": "C++",
+      "level": "basic"
+    },
+    {
+      "language": "Perl",
+      "level": "intermediate"
+    },
+    {
+      "language": "Python",
+      "level": "basic-intermediate"
+    },
+    {
+      "language": "Java",
+      "level": "basic-intermediate"
+    },
+    {
+      "language": "Visual Basic",
+      "level": "basic"
+    },
+    {
+      "language": "PHP",
+      "level": "basic"
+    },
+    {
+      "language": "MySQL",
+      "level": "basic-intermediate"
+    }
+  ]
+}
